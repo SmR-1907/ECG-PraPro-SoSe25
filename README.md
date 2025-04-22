@@ -1,4 +1,4 @@
 # ECG-PraPro-SoSe25
 Praxis Projekt ECG
 
-WebHook-Test 6
+WebHook-Test 7
